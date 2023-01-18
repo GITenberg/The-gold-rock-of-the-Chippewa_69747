@@ -1,0 +1,40 @@
+_repo: The-gold-rock-of-the-Chippewa_69747
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Merrill, Frank T.
+    aliases:
+    - Merrill, F. T.
+    - Merrill, Frank Thayer
+    birthdate: 1848
+    deathdate: 1923
+    gutenberg_agent_id: '6202'
+    url: http://www.gutenberg.org/2009/agents/6202
+creator:
+  author:
+    agent_name: Lange, D. (Dietrich)
+    alias: Lange, Dietrich
+    birthdate: 1863
+    deathdate: 1940
+    gutenberg_agent_id: '41409'
+    url: http://www.gutenberg.org/2009/agents/41409
+description: ''
+gutenberg_issued: '2023-01-08'
+identifiers:
+  gutenberg: '69747'
+language: en
+pgterms:marc904: https://archive.org/details/goldrockofchippe00lang/page/n7/mode/2up
+pgterms:marc905: 20210102110943lange
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive/American Libraries.)
+publication_note: 'United States: Lothrop, Lee & Shepard Co.,1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The gold rock of the Chippewa
+url: http://www.gutenberg.org/ebooks/69747
